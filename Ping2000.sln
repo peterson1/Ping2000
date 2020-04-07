@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30001.183
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{A5013AE1-CB99-4538-8C6B-3A8944938189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2K.Core", "P2K.Core\P2K.Core.csproj", "{F308681F-E2A7-41B9-A211-963215F20EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5013AE1-CB99-4538-8C6B-3A8944938189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5013AE1-CB99-4538-8C6B-3A8944938189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5013AE1-CB99-4538-8C6B-3A8944938189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5013AE1-CB99-4538-8C6B-3A8944938189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F308681F-E2A7-41B9-A211-963215F20EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F308681F-E2A7-41B9-A211-963215F20EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F308681F-E2A7-41B9-A211-963215F20EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F308681F-E2A7-41B9-A211-963215F20EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E764C663-4448-4694-B413-B34AC5C79C20}
+	EndGlobalSection
+EndGlobal
